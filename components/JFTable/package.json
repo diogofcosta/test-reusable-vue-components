@@ -1,10 +1,10 @@
 {
     "name": "@diogofcosta/jf-table",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "publishConfig": {
         "access": "public"
     },
     "dependencies": {
-        "@diogofcosta/jf-table-row": "^0.0.0"
+        "@diogofcosta/jf-table-row": "^0.1.0"
     }
 }
